@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+
+Roland Yamamoto is a Director, Producer and Writer for
+television, computer games, documentary films, websites, and
+multimedia.
+
+Currently, he is the VP of Communications &amp; Marketing
+at Penza Sports, a Redmond, WA manufacturer of sports training
+equipment; the senior partner of The Kukui Media Group, a
+Hawaiʻi-based TV production company; and
+the Creative Director of Earlybird &amp; Friends, a Redmond, WA
+creative agency for multimedia
+marketing.&nbsp;
+
+Formerly, Roland was a Co-founder of Wirestone, a national
+IT firm, President of LiveWire Interactive, a Seattle creative
+agency, and Production Manager of KITV-4 (ABC station,
+Honolulu).&nbsp;
+
+Personal Accomplishments
+
+
+Media awards include the Tellys, Houston Film Festival,
+NY Film Festival, TV Broadcast, ProMax, Iris, CINDY, Emerald City,
+and Parenting Magazine.
+
+Professional Ski Instructors of America
+
+Shodan, Washington Karate Association
+
+Education: University of Hawaii and University of
+Southern California.
+
+Married and father of 3 sons.
+
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Roland Yamamoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1116]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Roland Yamamoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-02-03T01:46:18]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1116]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1116]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1116]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

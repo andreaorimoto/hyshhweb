@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>08-Bo Kihon.jpg</originalFileName>
+    <size>204792</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:09:52 GMT</dateLastModified>
+    <width>1024</width>
+    <height>577</height>
+    <cachedImage>
+      <fileName>p513og3a.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:29:29 GMT</dateCreated>
+      <dateLastAccessed>Thu, 19 Mar 2015 19:10:55 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>56</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>tserj41h.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:52:11 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:52:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>338</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>e2cbjbth.jpeg</fileName>
+      <dateCreated>Fri, 28 Oct 2011 20:27:45 GMT</dateCreated>
+      <dateLastAccessed>Wed, 18 Jul 2012 07:17:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>577</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

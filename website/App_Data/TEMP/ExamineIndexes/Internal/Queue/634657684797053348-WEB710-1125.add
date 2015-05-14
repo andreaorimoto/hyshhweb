@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>eventDate</string>
+    </key>
+    <value><![CDATA[2011-05-14T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>eventLocation</string>
+    </key>
+    <value><![CDATA[Edmonds Community College ]]></value>
+  </item>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+Saturday, May 14, 2011
+
+Presented by: Washington Karate Association
+
+
+Dear Sensei, Coach, and
+Athlete,
+
+Once again it is with great pleasure and privilege
+that I invite you to participate in the 43rd Washington
+State International Karate Championships. This long-running
+competition has featured some of the best athletes in the world and
+some of the highest ranking officials in the international arena.
+We truly appreciate the past support from Senseis, officials,
+athletes, and volunteers, and hope you will join us again for this
+exciting event.
+
+The tournament will be held on Saturday, May
+14th at Edmonds Community College Seaview Gymnasium, 20000 68th West, Lynwood, WA 98036.
+Registration will open at 8:00am, there will be an officials
+meeting at 9:00am, and the competition will begin at 10:00am. This
+competition will provide an excellent competitive opportunity for
+karate-ka of all ages and levels to test their skills and gain
+valuable experience. Divisions will be divided according to age and
+level with medals awarded for the top three
+places.
+
+Competitors are required to wear a traditional white
+gi, and all officials must adhere to the official dress code, which
+is: Gray pants, white shirt, blue tie, blue blazer, and black
+non-marking soft-soled shoes. For kata competition, we will use the
+traditional scoring system rather than the flag system, except for
+in the WKF kata divisions. For kumite competition, modified
+WKF/USA-NKF rules will apply. Approved red and blue fistpads,
+mouthguard, and groin protector (males) are required. Optional
+equipment includes: approved chest protectors, shin/instep
+protectors, soft cloth arm guards, athletic safety glasses and
+headgear (for 13 &amp; under).
+
+Please feel free to contact me at (425) 641-8123 or
+sensei@wkabellevue.com
+for any questions.
+
+I look forward to seeing all of you
+there!
+
+Sincerely, Junko Arai
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>showInHPNews</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[43rd Annual Washington State International Karate Championships]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1125]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[43rd Annual Washington State International Karate Championship]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-08-29T14:17:16]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1132,1125]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1132]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1132,1125]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1125]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

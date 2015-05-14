@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>12-Gojushiho.jpg</originalFileName>
+    <size>177988</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:07 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>z0pgqw4n.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:27:47 GMT</dateCreated>
+      <dateLastAccessed>Tue, 10 Mar 2015 07:02:04 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>1fooyuya.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 03:55:14 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:52:32 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>x2vz53wh.jpeg</fileName>
+      <dateCreated>Mon, 24 Oct 2011 10:43:44 GMT</dateCreated>
+      <dateLastAccessed>Tue, 13 Jan 2015 21:02:10 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

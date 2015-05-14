@@ -1,0 +1,839 @@
+body
+{
+  background-image: url(/layout/images/hayashi-ha_main_1024/LogoAnima_slice.jpg);
+  background-repeat: repeat-x;
+  background-position: top;
+  margin: 0px;
+  padding: 0px;
+  font: 1.0em verdana, arial, sans-serif;
+  color: #CCCCCC;
+  background-color: #FFF;
+  background-color: #333333;
+  cursor: default;
+}
+
+a
+{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+img
+{
+  border: 0px;
+}
+
+div#top_home_link
+{
+  width: 130px;
+  height: 130px;
+  position: relative;
+  left: 90px;
+  top: 20px;
+  cursor: pointer;
+  border: solid 1px #ffffff;
+  z-index: 10;
+  float: left;
+}
+
+div#main
+{
+  /* border: solid 1px #CCCCCC; somehow this influences the top header in chrome and safari*/
+  position: relative;
+  width: 1000px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #333333;
+}
+
+div#body
+{
+  width: 1000px;
+  background-color: #333333;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(/layout/images/hayashi-ha_main_1024/LogoAnima_slice.jpg);
+  background-repeat: repeat-x;
+  float: left;
+}
+
+div#body_header
+{
+  background-image: url(/layout/images/hayashi-ha_main_1024/LogoAnima.gif);
+  background-repeat: no-repeat;
+  float: inherit;
+}
+
+div#headerFB
+{
+  position:absolute; left:300px; top: 35px;
+}
+
+div#headerSearch
+{
+  position:absolute; right:80px; top: 34px;
+}
+
+div#body a.logoUrl
+{
+  position: absolute;
+  top: 22px;
+  left: 90px;
+  width: 130px;
+  height: 125px;
+}
+
+div#hpNewsFeed
+{
+  margin: 0;
+  padding: 0;
+  height: 156px;
+  overflow: auto;
+}
+
+
+div#topLinks a
+{
+  text-decoration: none;
+  color: #FFF;
+}
+
+div#topLinks
+{
+  width: 618px;
+  font-size: .6em;
+  position: relative;
+  top: 0px;
+  left: 300px;
+  line-height: 23px;
+  float: inherit;
+  text-align: right;
+}
+
+
+div#paddingLeft
+{
+  width: auto;
+  background-color: #333333;
+  float: left;
+  margin-left: auto;
+}
+
+div#paddingLeft
+{
+  width: auto;
+  background-color: #333333;
+  float: left;
+  margin-right: auto;
+}
+
+div#header
+{
+  margin-top: 0;
+  height: 95px;
+  margin-left: auto;
+  margin-right: auto; /*   border-color: Black;   border-style: dotted;   border-width: 1px;   */ /*   background-image: url(/layout/images/1px_border_left.gif);   background-position: left;   background-repeat: no-repeat;   */
+}
+div#contentarea
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto; /*   border-color: Black;   border-style: dotted;   border-width: 1px;   */
+  margin: 0;
+  padding: 0;
+}
+div#column1
+{
+  width: 300px;
+  float: left;
+  padding-top: 84px; /*   border-color: Black;   border-style: dotted;   border-width: 1px;   */
+}
+div#column2
+{
+  width: 618px;
+  float: left; /*   border-color: Black;   border-style: dotted;   border-width: 1px;   */
+  padding-bottom: auto;
+  padding-top: 2px;
+  font-size: .8em;
+}
+div#column3
+{
+  width: 150px;
+  background-color: #CCC;
+  float: left;
+}
+div#footer
+{
+  width: 1000px;
+  height: 49px;
+  font-size: .6em;
+  padding: 0 0 0 0;
+  margin: 0 auto 0 auto; /*   border-color: Black;   border-style: dotted;   border-width: 1px;   */
+}
+div#disclaimer
+{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  position: relative;
+  top: 30px;
+  left: 210px;
+  width: 550px;
+}
+
+
+/* here follows the brillant "no-extra-markup" clearing method devised by Tony Aslett - www.csscreator.com */
+/* simply add the clearfix class to any containter that must enclose floated elements */
+/* read the details of how and why this works at http://www.positioniseverything.net/easyclearing.html */
+.clearfix:after
+{
+  content: "."; /* the period is placed on the page as the last thing before the div closes */
+  display: block; /* inline elements don't respond to the clear property */
+  height: 0; /* ensure the period is not visible */
+  clear: both; /* make the container clear the period */
+  visibility: hidden; /* further ensures the period is not visible */
+}
+
+.clearfix
+{
+  display: inline-block;
+}
+/* a fix for IE Mac */
+
+/* next a fix for the dreaded Guillotine bug in IE6 */
+/* Hides from IE-mac \*/
+* html .clearfix
+{
+  height: 1%;
+}
+.clearfix
+{
+  display: block;
+}
+/* End hide from IE-mac */
+/* end of "no-extra-markup" clearing method */
+
+div.clearfloats
+{
+  clear: both;
+}
+
+/* the horizontal menu starts here */
+div#listmenu
+{
+  position: relative;
+  top: 42px;
+  left: 300px;
+  width: 618px; /* makes the div full width */
+  float: left; /*makes the div enclose the list */ /* border-top: 1px solid #CCC; draws line on top edge of div */ /*border-bottom: 1px solid #CCC;  draws line on bottom edge of div */
+  font-size: 1.0em; /* SET FONT-SIZE HERE */ /* margin-top:20px;  TEMPORARY - pushes the div away from the top of the browser for clarity in this example*/
+  line-height: 26px; /* this needs to be = div#listmenu li height  */
+  font-size: .6em;
+}
+
+div#listmenu a
+{
+  /*padding: 0 6px; creates space each side of menu item's text */
+  text-decoration: none; /* removes the underlining of the link */
+  color: #CCCCCC; /* sets the type color */
+}
+
+.tabOff
+{
+  /*background-color: #333; /*sets the background of the menu items */ /*border-right: solid 1px #333; /* creates dividing lines between the li elements */ /*border-left: solid 1px #333; */
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn.gif);
+  background-repeat: no-repeat;
+}
+
+.tabOn
+{
+  /*background-color: #000; /*sets the background of the menu items */ /*border-right: solid 1px #000; /* creates dividing lines between the li elements */ /*border-left: solid 1px #000;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_down.gif);
+  background-repeat: no-repeat;
+}
+
+.tabHover
+{
+  /*background-color: #666; /*sets the background of the menu items */ /*border-right: solid 1px #666; /* creates dividing lines between the li elements */ /*border-left: solid 1px #666;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #000;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_hover.gif);
+  background-repeat: no-repeat;
+}
+
+.tabOff_right
+{
+  /*background-color: #333; /*sets the background of the menu items */ /*border-right: solid 1px #333; /* creates dividing lines between the li elements */ /*border-left: solid 1px #333; */
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_right.gif);
+  background-repeat: no-repeat;
+}
+
+.tabOn_right
+{
+  /*background-color: #000; /*sets the background of the menu items */ /*border-right: solid 1px #000; /* creates dividing lines between the li elements */ /*border-left: solid 1px #000;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_down_right.gif);
+  background-repeat: no-repeat;
+}
+
+.tabHover_right
+{
+  /*background-color: #666; /*sets the background of the menu items */ /*border-right: solid 1px #666; /* creates dividing lines between the li elements */ /*border-left: solid 1px #666;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #000;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_hover_right.gif);
+  background-repeat: no-repeat;
+}
+
+.tabOff_left
+{
+  /*background-color: #333; /*sets the background of the menu items */ /*border-right: solid 1px #333; /* creates dividing lines between the li elements */ /*border-left: solid 1px #333; */
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_left.gif);
+  background-repeat: no-repeat;
+}
+
+.tabOn_left
+{
+  /*background-color: #000; /*sets the background of the menu items */ /*border-right: solid 1px #000; /* creates dividing lines between the li elements */ /*border-left: solid 1px #000;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #CCCCCC;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_down_left.gif);
+  background-repeat: no-repeat;
+}
+
+.tabHover_left
+{
+  /*background-color: #666; /*sets the background of the menu items */ /*border-right: solid 1px #666; /* creates dividing lines between the li elements */ /*border-left: solid 1px #666;*/
+  width: 104px;
+  height: 26px; /* this needs to be = div#listmenu line-height  */
+  text-align: center;
+  color: #000;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background-image: url(/layout/images/hayashi-ha_main_1024/topnav_btn_hover_left.gif);
+  background-repeat: no-repeat;
+}
+
+.tablemenu
+{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.rowmenu
+{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+div#leftnav_tree
+{
+  position: relative;
+  left: 0px;
+  top: 12px;
+}
+
+div#leftnav
+{
+  position: relative;
+  left: 81px;
+  width: 215px;
+  min-height: 475px;
+  background-color: #666666;
+  border-left: solid 2px #999;
+  border-top: solid 1px #999;
+  font-size: .8em;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+div#leftnav ul
+{
+  padding: 0 0 0 .5em;
+  margin: .5em 0 0 1.35em;
+  list-style-type: inherit; /* list-style-image: url(/layout/images/hayashi-ha_main/); */
+}
+div#leftnav li
+{
+  margin: 0;
+  padding: 0;
+  text-indent: 0em;
+}
+
+div#leftnav a
+{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+div#leftnavHP
+{
+  position: relative;
+  left: 81px;
+  width: 215px;
+  height: 123px;
+  background-color: #666666;
+  border-left: solid 2px #999;
+  border-top: solid 1px #999;
+  font-size: .8em;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+div#leftnavHP ul
+{
+  padding: 0 0 0 .5em;
+  margin: .5em 0 0 1.35em;
+  list-style-type: inherit; /* list-style-image: url(/layout/images/hayashi-ha_main/); */
+}
+div#leftnavHP li
+{
+  margin: 0 0 0px 0;
+  padding: 0;
+  text-indent: 0em;
+  border-bottom: 1px solid #c5c5c5;
+}
+
+div#leftnavHP a
+{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+.newslist
+{
+  margin: 0px;
+  padding: 5px 0px 0px 20px;
+}
+
+div#headline
+{
+  float: left;
+  position: relative;
+  top: 3px;
+  padding: 0;
+  margin: 0;
+  width: 618px;
+  height: 25px;
+  background-color: #336699;
+}
+
+div.headline_title
+{
+  padding: 0;
+  margin: 0;
+  width: 135px;
+  height: 25px;
+  background-color: #66ccff;
+  float: left;
+  line-height: 25px;
+  color: #339966;
+  padding-left: 3px;
+  background-image: url(/layout/images/hayashi-ha_main_1024/headline_title.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+div.headline_content
+{
+  padding: 0;
+  margin: 0;
+  width: 470px;
+  height: 25px;
+  background-color: #336699;
+  color: #cccccc;
+  float: left;
+  line-height: 25px;
+  padding-left: 3px;
+}
+
+div#HomePageHero
+{
+  position: relative; /* top: 5px;  */
+  width: 618px;
+  height: 235px;
+}
+
+div#events_hp_container
+{
+  position: relative;
+  top: 6px;
+  width: 621px;
+  height: 180px;
+}
+
+div#events_hp_container div:last-child
+{
+  /* border-right-color: Yellow; */
+}
+
+div#events_hp_container img
+{
+  border-width: 0px;
+  width: 153px;
+  height: 100px;
+}
+
+div.events_hp
+{
+  width: 154px;
+  height: 180px;
+  float: left;
+  border-right: solid 1px #333;
+}
+
+div.events_hp_top
+{
+  width: 153px;
+  height: 100px;
+}
+div.events_hp_center
+{
+  width: 153px;
+  height: 22px;
+  background-color: #003366;
+  text-align: center;
+  line-height: 21px;
+}
+div.events_hp_center a
+{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+div.events_hp_bottom
+{
+  width: 147px;
+  height: 58px;
+  background-color: #FFF;
+  padding: 1px 3px 1px 3px;
+  color: #003366;
+  text-align: center;
+}
+
+.leftNav
+{
+  font-size: 0.6em;
+  padding: 4px 10px 4px 10px;
+}
+
+div.news_title
+{
+  font-weight: bold;
+  color: #336699;
+  font-size: 1.2em;
+  letter-spacing: .05em;
+}
+
+div.news_more a
+{
+  color: #339966;
+}
+
+div.pageTitle
+{
+  font-size: 1.6em;
+  margin: 45px 0px 15px 0px;
+  padding: 0;
+  clear: both;
+}
+
+.pageTitle h1
+{
+  font-size: 1em;
+}
+
+div.pageContent
+{
+  background-color: #e2e1e1;
+  padding: 6px 25px 50px 25px;
+  width: 568px;
+  margin: 0 0 0 0;
+  color: #666666;
+  padding-bottom: 50px;
+  min-height: 480px;
+}
+
+div.pageContent a
+{
+  color: #000000;
+  text-decoration: underline;
+}
+
+.hp_news_title
+{
+  color: #003366;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.hp_news_title_2
+{
+  color: #003366;
+  font-size: .8em;
+}
+
+div#ad
+{
+  position: relative;
+  left: 81px;
+  height: 182px;
+  width: 217px;
+  background-color: #fff;
+  font-size: 0.6em;
+}
+
+div#ad_image
+{
+  width: 215px;
+  height: 157px;
+  padding: 0;
+  margin: 0;
+}
+
+div#ad_sponsor
+{
+  height: 25px;
+  line-height: 25px;
+  background-color: #666666;
+}
+
+span#sponsor_title
+{
+  color: #339966;
+  padding: 0 0 0 .5em;
+}
+
+span#sponsor_title_arrow
+{
+  color: #339966;
+  font-size: 0.6em;
+}
+
+span#sponsor_text
+{
+  color: #999999;
+}
+
+.headerImageStyle
+{
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+/* Scrolling Breaking News */
+div#news-slide
+{
+  position: relative;
+  overflow: hidden;
+  float: right;
+  width: 475px;
+  height: 1.8em;
+  margin: 0;
+  padding: 0;
+}
+ul#news-slide-list
+{
+  position: relative;
+  overflow: hidden;
+  width: 475px;
+  height: 1.8em;
+  margin: 0;
+  padding: 0;
+}
+
+div#news-slide ul
+{
+  list-style-type: none;
+}
+
+ul#news-slide-list li
+{
+  position: absolute;
+  left: 475px;
+  top: 0px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+ul#news-slide-list li.news-slide-first, li.news-slide-first
+{
+  left: 0;
+}
+
+/* Breadcrumbs */
+div#breadcrumbs
+{
+  margin: 0px;
+  margin-bottom: 20px;
+  padding: 0px;
+  position: relative;
+  width: 590px;
+}
+
+div#breadcrumbs ul
+{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  color: #666666;
+}
+
+div#breadcrumbs ul li
+{
+  float: left;
+  list-style: none;
+}
+
+div#breadcrumbs ul a
+{
+  color: #666666;
+}
+
+div.eventDownloadList
+{
+    margin-top: 20px; 
+    padding: 10px;
+    border: 1px solid #C0C0C0;
+}
+
+div.eventDownloadList ul
+{
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+div.eventDownloadList ul li
+{
+margin-left: -25px;
+}
+
+
+div.photo
+{
+  float: left;
+  width: 120px;
+  text-align: center;
+  padding: 5px;
+  height: 125px;
+}
+
+.photoTitle
+{
+  font-size: 10px;
+}
+
+div.block 
+{
+  margin-bottom: 1em;
+  padding-left: 1em;
+}
+
+div.block h4
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+div.block p
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+div.block p.thumb
+{
+  float: left;
+  margin-right: 1em;
+}
+
+div.block div.content
+{
+  float:left;
+  width: 420px;
+}
+
+div.block p.desc
+{
+  clear: both;
+  margin-top: 0.5em;
+}
+
+div.otherVideos
+{
+  margin-top: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>eventDate</string>
+    </key>
+    <value><![CDATA[2013-05-17T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>eventLocation</string>
+    </key>
+    <value><![CDATA[Seattle, Washington]]></value>
+  </item>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+International
+Hayashi-Ha Shito Ryu Karate-Do
+Federation
+
+&nbsp;
+
+Technical Seminars
+
+May 17 &amp; 18th, 2013
+
+Bellevue, WA
+
+&nbsp;
+
+
+ 
+
+
+&nbsp;
+
+
+ Instructors:
+
+
+
+
+Kata:
+Hanshi Julius Thiry, 8th Dan - Coach of many
+International Champions
+
+
+
+&nbsp;
+Sensei Junko Arai, - 2 time World Medalist, World Games
+Medalist
+
+
+
+&nbsp;
+
+
+
+Kumite:
+Shihan Makoto Matsuura, 7th Dan
+
+
+
+&nbsp;
+Sensei Seiji Nishimura - 2 time World
+Champion
+
+
+
+
+
+
+
+&nbsp;
+
+Friday, May
+17th:
+
+5:30-7:00pm: Kata Seminar (Red Belt
+and under)
+
+7:00-8:30pm:&nbsp;Kata Seminar
+(Purple Belt and above)
+
+
+
+
+&nbsp;
+
+Saturday, May
+18th:
+
+10:00-11:30am: Kumite Seminar
+(10 and under)
+
+1:00-2:30pm: Kumite Seminar (11
+and above)
+
+3:00-4:30pm: Kumite Seminar
+(Brown &amp; Black Belts only)
+
+&nbsp;
+
+
+Cost:
+
+$100/seminar,
+$175/all
+
+(2nd. family member 25% off,
+3rd. family member 50%)
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>showInHPNews</string>
+    </key>
+    <value><![CDATA[1]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Kata & Kumite Seminars]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1652]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Kata & Kumite Seminar]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2013-03-14T16:22:04]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1646,1652]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1646]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1646,1652]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1652]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

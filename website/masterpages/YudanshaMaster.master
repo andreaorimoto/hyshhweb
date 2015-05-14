@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+    <!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+        <title>
+          <umbraco:Item field="title" runat="server" />
+        </title>
+        <meta name="robots" content="index,follow,noydir,noodp" />
+       <script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.min.css" />
+       <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+        <asp:ContentPlaceHolder ID="MainHeadPlaceholder" runat="server">
+        </asp:ContentPlaceHolder>
+    <style>
+        body {
+            font-family: 'segoe ui', verdana, helvetica, sans-serif;
+        }
+
+            .note {
+                font-size: 0.8em;
+            }
+
+            .loginBox {
+                width: 300px;
+                margin: auto;
+                margin-top: 200px;
+            }
+         .yudanshaNav {
+             background-color: #000000;
+             width: 98%;
+             padding: 10px;
+             margin-bottom: 20px
+         }
+
+        .yudanshaNav a {
+            margin-right: 30px;
+            font-size: 1.3em;
+            color: #FFFFFF;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .mainDiv {
+            width: 95%;
+            margin: auto;
+            font-size: 1.1em;
+        }
+
+        .dataTables_wrapper .dataTables_filter {
+            margin-bottom: 8px;
+        }
+    </style>
+    </head>
+    <body>
+      <form id="form1" runat="server">
+        <asp:contentplaceholder id="ContentPlaceHolderMain" runat="server" >
+        </asp:ContentPlaceHolder>
+      </form>
+    </body>
+    </html>
+</asp:Content>

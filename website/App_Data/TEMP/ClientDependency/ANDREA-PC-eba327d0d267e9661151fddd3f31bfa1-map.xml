@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_af63b78fe59f407898f18c31af4eb825.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_f044f357b01240cf9773c8c0d116da44.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_b03b11643c0b483fa5c6aac1fcbcaba1.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOy91bWJyYWNvX2NsaWVudC90YWJsZXNvcnRpbmcvdGFibGVGaWx0ZXIuanM7" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_c3213439e20a418383cac4c15f1dbb49.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tablesorting\tableDragAndDrop.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tablesorting\tableFilter.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_4f4f96e435344c38be30ae9cd172afb5.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_8f382750bd5041a6a78214bf805ef8a8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\modal.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_0da7c2ebe7b54273b7689abeda4e78dc.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_3d9ef8897b8e4cf4a5bd49f881c63a21.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tabview\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_51ce4ef48d9b4b31a672e0e85aef280a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\modal.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9qcXVlcnkuc2ltcGxlbW9kYWwuMS40LjEuY3VzdG9tLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_ca964eadbe3d4dd4a2e7c256121aa562.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\HistoryManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\jquery.simplemodal.1.4.1.custom.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\modal.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco\Search\quickSearch.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco\js\guiFunctions.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jQueryWresize.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOw==" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_435825a1ec1e4e17a75269ce0b6bf199.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tabview\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\style.css" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFzc3dvcmRTdHJlbmd0aC9wYXNzd29yZHN0cmVuZ3RoLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs=" file="C:\Projects\karate\umbraco-bits\umbraco4.6.1\App_Data\TEMP\ClientDependency\1_0cca87a35a5746d0ae2f155ad67873d0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\ui\default.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\modal\modal.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\passwordStrength\passwordstrength.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Projects\karate\umbraco-bits\umbraco4.6.1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+</map>

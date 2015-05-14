@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>04-Kihon Practice.jpg</originalFileName>
+    <size>168901</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:20:14 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>l5bqoaax.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:44:56 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 18:25:01 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>yo5dhakv.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 03:53:10 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 18:25:05 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>4whtjiwt.jpeg</fileName>
+      <dateCreated>Wed, 07 Dec 2011 23:13:41 GMT</dateCreated>
+      <dateLastAccessed>Mon, 01 Sep 2014 20:16:11 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

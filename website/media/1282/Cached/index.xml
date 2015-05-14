@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>KARATE PHOTOS_0005.jpg</originalFileName>
+    <size>209775</size>
+    <dateLastModified>Sat, 10 Sep 2011 06:10:41 GMT</dateLastModified>
+    <width>1476</width>
+    <height>864</height>
+    <cachedImage>
+      <fileName>yta3ppnq.jpeg</fileName>
+      <dateCreated>Sat, 10 Sep 2011 06:15:41 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 22:39:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>59</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ljlvk10f.jpeg</fileName>
+      <dateCreated>Sat, 10 Sep 2011 06:19:43 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 22:39:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>351</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>nsrb0kvs.jpeg</fileName>
+      <dateCreated>Mon, 03 Oct 2011 01:12:23 GMT</dateCreated>
+      <dateLastAccessed>Fri, 09 Jan 2015 11:44:25 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1476</width>
+      <height>864</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

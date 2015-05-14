@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>07-Bo Kihon.jpg</originalFileName>
+    <size>203605</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:09:51 GMT</dateLastModified>
+    <width>1024</width>
+    <height>577</height>
+    <cachedImage>
+      <fileName>wolxz1ew.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:29:29 GMT</dateCreated>
+      <dateLastAccessed>Thu, 19 Mar 2015 19:10:55 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>56</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>zht2fqnn.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:31:30 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:52:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>338</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>rasegeku.jpeg</fileName>
+      <dateCreated>Fri, 28 Oct 2011 20:27:45 GMT</dateCreated>
+      <dateLastAccessed>Thu, 28 Nov 2013 20:54:54 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>577</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

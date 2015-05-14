@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>eventDate</string>
+    </key>
+    <value><![CDATA[2015-05-10T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>eventLocation</string>
+    </key>
+    <value><![CDATA[WKA Bellevue Dojo]]></value>
+  </item>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+
+KUMITE SEMINAR
+
+Sunday, May 10,
+2015&nbsp;
+
+WKA Bellevue
+Dojo&nbsp;
+
+14906 Bel-Red Road,
+Bellevue, WA 98007&nbsp;
+
+&nbsp;
+
+Sensei Seiji Nishimura
+
+Two-time WKF World
+Champion, former Head Coach of Japanese Team, former guest coach of
+USA Team.&nbsp;
+
+1:00-2:30pm: Green Belts
+&amp; Below&nbsp;
+
+2:30-4:00pm: Brown &amp;
+Black Belts&nbsp;
+
+&nbsp;
+
+
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>showInHPNews</string>
+    </key>
+    <value><![CDATA[1]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[2015 Kumite Seminar with Sensei Nishimura]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1917]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Kumite Seminar 2105 Sensei Nishimura]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2015-01-26T16:36:11]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1910,1917]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1910]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1910,1917]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1917]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

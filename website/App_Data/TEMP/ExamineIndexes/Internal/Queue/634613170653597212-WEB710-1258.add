@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+
+&nbsp;
+
+&nbsp;
+
+
+Personal:
+
+
+
+Attended Rainier Beach High School and went on to do
+undergraduate studies at the University of
+Washington.
+
+
+Married to Kathy and have one daughter, Marcie. Both
+have practiced Karate with the WKA and Marcie realized a Shodan
+Black Belt ranking. My daughter and her husband Ray have given us a
+2 ½ Y/O grandson, Ray III.
+
+
+We currently reside in Federal Way,
+WA
+
+
+
+Professional:
+
+
+
+Graduated from the University of Washington Dental
+School and was selected for a US Public Health Service residency
+for two years. I currently practice Family Dentistry in both the
+Seattle and Renton areas. I also teach goldwork at the University
+of Washington Dental School to third and fourth year
+students.
+
+
+
+Karate:
+
+
+
+Started Shito-Ryu Karate with the WKA under Hanshi
+Julius Thiry and Sensei Linda Marquardt in 1990. Am currently a
+Sandan Black Belt training at the Bellevue Dojo under Sensei Junko
+Arai. I also have a Shodan Black Belt ranking in Kenshin-Ryu Kobudo
+under Sensei Thomas Burke.
+
+
+I was the past Medical Chair for USA Karate and hold
+the same position with the WSKF.
+
+
+
+Besides Karate I enjoy saltwater fishing, shooting pool
+and playing with my grandson.
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Bruce A. Sako]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1258]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Bruce Sako]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-08-06T14:20:50]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1258]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1258]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1258]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

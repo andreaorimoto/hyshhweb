@@ -1,0 +1,5 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/YudanshaMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+  <umbraco:Item field="mainBodyField" runat="server" /> 
+</asp:Content>

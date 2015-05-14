@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+    <!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head id="Head1" runat="server">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+        <title>
+            <umbraco:Macro ID="Macro1" runat="server" Alias="Title" />
+        </title>
+        <meta name="ROBOTS" content="NOYDIR,NOODP" />
+        <meta name="keywords" content="<umbraco:Item runat='server' Field='SEOKeywords' recursive='true' />" />
+        <meta name="description" content="<umbraco:Macro runat='server' Alias='Description' />" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+        <link rel="Stylesheet" type="text/css" href="/css/base.css" />
+        <link rel="Stylesheet" type="text/css" href="/css/navigation.css" />
+        <link rel="Stylesheet" type="text/css" href="/css/CultivContactForm.css" />
+        <asp:ContentPlaceHolder ID="MainHeadPlaceholder" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <div id="main">
+            <div id="body">
+                <div id="body_header">
+                    <a href="/" title="Back to Home Page" class="logoUrl"></a>
+                    <div id="header">
+                        <umbraco:Macro ID="Macro2" runat="server" Alias="TopNavigation" />
+                        <!-- Move navigation to a macro  -->
+                        <umbraco:Macro ID="Macro3" runat="server" Alias="MainNavigation" />
+                    </div>
+                    <div>
+                        <div id="contentarea" class="clearfix">
+                            <div id="column1">
+                                <asp:contentplaceholder id="ContentPlaceHolderLeftNav" runat="server" />
+                            </div>
+                            <div id="column2">
+                                <umbraco:Macro ID="Macro4" runat="server" Alias="SectionBanner" />
+                                <asp:contentplaceholder id="ContentPlaceHolderMain" runat="server" />
+                            </div>
+                            <div class="clearfloats">
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <asp:contentplaceholder id="FlashContainer" runat="server"></asp:contentplaceholder>
+                    </div>
+                    <div id="footer">
+                        <div id="disclaimer">
+                            <umbraco:Item ID="Item1" runat="server" Field="siteDisclaimer" recursive="true" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Google analytics tag start -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-9676784-1");
+                pageTracker._trackPageview();
+            } catch (err) { }
+        </script>
+        <!-- Google analytics tag start -->
+    </body>
+    </html>
+</asp:Content>

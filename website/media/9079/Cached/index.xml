@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Hanshi Thiry and Sensei Kovacs.jpg</originalFileName>
+    <size>421386</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:12:04 GMT</dateLastModified>
+    <width>1365</width>
+    <height>2048</height>
+    <cachedImage>
+      <fileName>dmhsnxxa.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 05:20:40 GMT</dateCreated>
+      <dateLastAccessed>Mon, 16 Mar 2015 22:13:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>67</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>oen3wgqt.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 07:31:58 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 09:29:12 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>y3t0rq0z.jpeg</fileName>
+      <dateCreated>Tue, 31 Jan 2012 13:38:54 GMT</dateCreated>
+      <dateLastAccessed>Mon, 25 Nov 2013 09:42:54 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1365</width>
+      <height>2048</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>hanshi thiry and sensei kovacs.jpg</originalFileName>
+    <size>421386</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:12:04 GMT</dateLastModified>
+    <width>1365</width>
+    <height>2048</height>
+    <cachedImage>
+      <fileName>rktyxgnw.jpeg</fileName>
+      <dateCreated>Wed, 05 Dec 2012 08:43:04 GMT</dateCreated>
+      <dateLastAccessed>Mon, 25 Feb 2013 11:11:51 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

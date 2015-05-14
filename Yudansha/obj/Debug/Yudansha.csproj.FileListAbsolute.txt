@@ -1,0 +1,8 @@
+C:\code\ihskf\current\Yudansha\bin\Yudansha.dll.config
+C:\code\ihskf\current\Yudansha\bin\Yudansha.dll
+C:\code\ihskf\current\Yudansha\bin\Yudansha.pdb
+C:\code\ihskf\current\Yudansha\obj\Debug\Yudansha.dll
+C:\code\ihskf\current\Yudansha\obj\Debug\Yudansha.pdb
+C:\code\ihskf\current\Yudansha\bin\Newtonsoft.Json.dll
+C:\code\ihskf\current\Yudansha\bin\Newtonsoft.Json.xml
+C:\code\ihskf\current\Yudansha\obj\Debug\Yudansha.csprojResolveAssemblyReference.cache

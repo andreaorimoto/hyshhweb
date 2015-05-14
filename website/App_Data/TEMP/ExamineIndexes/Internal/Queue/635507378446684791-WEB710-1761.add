@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>eventDate</string>
+    </key>
+    <value><![CDATA[2014-12-05T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>eventLocation</string>
+    </key>
+    <value><![CDATA[BUDAÖRS CITY, HUNGARY]]></value>
+  </item>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+ Open Shito-Ryu Karate World Cup
+
+The International Hayashi ha Shito-Ryu Karate-do
+Federation's 2014&nbsp;Open Shito-Ryu Karate World
+Cup&nbsp;promises to be one of the highlights of the elite
+international Karate scene.&nbsp;December
+5th-7th, the door opens in Budapest, Hungary
+with an open invitation to international athletes and
+enthusiasts.
+
+Beyond the competitive Open Shito-Ryu World
+Cup&nbsp;titles, opportunities abound to enhance kata,
+kumite, and referee skills via elite level seminars taught by
+world-renowned instructors.
+
+Kata Seminars will be instructed by&nbsp;Hanshi
+Julius Thiry&nbsp;(International Hayashi ha Shito ryu
+Karate-do Federation President) and&nbsp;Sensei Katherine
+Jones Thiry; both are award-winning teachers of enumerable
+individual and team WKF world titleholders.
+
+For those seeking enhanced kumite skills, Seminars will be
+held by&nbsp;Seiji Nishimura&nbsp;WKF&nbsp;World
+Champion and Adam S. Kovács&nbsp;WKF World Games
+Champion.
+
+Mr. Chuck Sweigart,&nbsp;WKF
+referee, will steward the Referees meeting with the support of
+members of the Referees Commission.
+
+For more information:&nbsp;Open Shito-Ryu Karate
+World Cup flier
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>sEODescription</string>
+    </key>
+    <value><![CDATA[The International Hayashi ha Shito-Ryu Karate-do Federation's 2014 Open Shito-Ryu Karate World Cup promises to be one of the highlights of the elite international Karate scene. December 5th-7th, the door opens in Budapest, Hungary with an open invitation to international athletes and enthusiasts.]]></value>
+  </item>
+  <item>
+    <key>
+      <string>sEOTitle</string>
+    </key>
+    <value><![CDATA[Open Shito Ryu Karate World Cup]]></value>
+  </item>
+  <item>
+    <key>
+      <string>showInHPNews</string>
+    </key>
+    <value><![CDATA[1]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Open Shito Ryu Karate World Cup]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1761]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Open Shito Ryu Karate World Cup]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2014-11-04T22:43:23]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1750,1761]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1750]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1750,1761]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1761]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

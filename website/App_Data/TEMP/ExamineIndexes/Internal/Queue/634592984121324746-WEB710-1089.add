@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+Executive Committee:
+
+
+Julius
+Thiry,&nbsp;Hanshi President
+
+Thomas G.
+Burke Esq, Secretary General
+
+Dr.Janos
+Meszaros, Secretary of Treasury
+
+
+Vice Presidents:
+
+
+Gabor
+Kurdi
+
+Steve
+Buckner
+
+
+Board of Directors:
+
+
+Julius
+Thiry, Chair
+
+Thomas
+G.&nbsp;Burke Secretary
+
+Dr. Janos
+Meszaros
+
+Gabor
+Kurdi
+
+Steve
+Buckner
+
+
+Technical Committees:
+
+Referee Committee:
+
+
+Chuck
+Sweigart, Chair
+
+Péter
+Turák
+
+
+Technical Committee Kata:
+
+
+Katherine
+J. Thiry, Chair
+
+Junko
+Arai
+
+Matthew
+Day
+
+
+Kumite:
+
+
+Makoto
+Matsuura, Chair
+
+Seiji
+Nishimura
+
+Adam
+Kovacs
+
+
+Medical Committee:
+
+
+Dr. Bruce
+Sako, Chair
+
+Dr. Lon Hayne
+
+Dr. Liqun Zhu
+
+
+Legal Committee:
+
+
+Thomas G.
+Burke, Chair
+
+Dr. Janos
+Meszaros
+
+Randal Gordon Esq,
+
+
+IT Committee:
+
+
+Andrea
+R. Orimoto, Chair
+
+Katherine
+J.Thiry
+
+Roland
+Yamamoto
+
+
+Marketing &amp; Public Relation
+Committee:
+
+
+Katherine
+J. Thiry, Chair
+
+William
+Chao
+
+Dr. Janos
+Meszaros
+
+
+International Kenshin-Ryu
+Kobudo:
+
+
+Bernard
+Dougherty, Chair
+
+Steve
+Buckner
+
+Thomas G.
+Burke
+
+
+Championships
+&amp;&nbsp;Seminars:
+
+
+International Shito-ryu Kata Seminars in Hungary
+ Keszthely, Hungary
+ December 1-4, 2011
+
+Washington Karate Association's 45th Anniversary
+Banquet
+ Bellevue, WA. USA
+ October 8, 2011
+
+Technical Seminars
+ Seattle, WA. USA
+ October 7-9, 2011
+
+World Hayashi-Ha&nbsp;International Shito-Ryu&nbsp;Karate
+Championship.
+ Miskolc, Hungary
+ April, 2008
+
+Kata &amp; Kumite Seminar
+ Seattle, WA. USA
+ September, 2008
+
+Kata Seminar
+ Budapest, Hungary
+ April, 2008
+
+Kata &amp; Kobudo Seminar
+ Cincinnati, Ohio. USA
+ November, 2009
+
+Kata &amp; Kumite Seminar
+ Ft. Myers, Florida. USA
+ October, 2010
+
+Kata &amp; Kumite Seminar
+ Keszthely, Hungary
+ November, 2010
+
+USA National Hayashi-Ha Karate Championship.
+ Seattle, Washington. USA
+ May 14, 2011
+
+
+
+﻿
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Organization Chart]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Organization Chart]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-09-18T18:01:07]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Julian Boss]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1086]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

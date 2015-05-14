@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>description</string>
+    </key>
+    <value><![CDATA[
+&nbsp;&nbsp;&nbsp;
+
+We have released the following 10 new advanced Kata videos:
+
+
+Annan
+
+Annanko
+
+Chatanyara Kushanku
+
+Jyuroku
+
+Kururunfa
+
+Nipaipo
+
+Pachu
+
+Paiku
+
+Seisan
+
+Superempei
+
+
+We have also uploaded the last 3 as promised!
+
+
+Heiku
+
+Sochin
+
+Unshu
+
+
+Have fun!
+
+Ossu
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>destinationURL</string>
+    </key>
+    <value><![CDATA[/news/2011-12/10-new-advanced-kata-videos-released]]></value>
+  </item>
+  <item>
+    <key>
+      <string>leftNavTitle</string>
+    </key>
+    <value><![CDATA[10 new advanced Kata videos released!]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[13 new Advanced Kata Videos Released! Check them out now!]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1476]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[10 new Advanced Kata Videos Released]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-12-04T22:52:01]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1100,1462,1476]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[NewsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1462]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1100,1462,1476]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[NewsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1476]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

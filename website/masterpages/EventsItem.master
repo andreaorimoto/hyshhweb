@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/ItemMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+    <umbraco:Macro runat="server" Alias="LeftNavigation" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <div class="pageContent">
+        <umbraco:Macro runat="server" Alias="Breadcrumbs" />
+      <div class="pageTitle">
+      <!--  
+            <h1>
+                <umbraco:Item Field="title" runat="server"></umbraco:Item>
+            </h1>
+      -->
+        </div>
+        <umbraco:Item Field="mainText" runat="server"></umbraco:Item>
+        <umbraco:Macro Alias="EventDownloadsList" runat="server"></umbraco:Macro>
+        <umbraco:Macro Alias="ShareThis" runat="server"></umbraco:Macro>
+    </div>
+</asp:Content>

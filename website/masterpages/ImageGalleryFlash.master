@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/MainNoLeftNavigation.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="MainHeadPlaceholder" runat="server">
+</asp:Content>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+   <div class="pageContent">
+        <umbraco:Macro runat="server" Alias="Breadcrumbs" />
+        <div class="pageTitle">
+            <umbraco:Item Field="title" runat="server"></umbraco:Item>
+        </div>
+        <umbraco:Item Field="mainText" runat="server"></umbraco:Item>
+    </div>
+</asp:Content>
+<asp:Content ContentPlaceHolderID="FlashContainer" runat="server">
+        <umbraco:Macro Alias="ImageGalleryFlash" runat="server"></umbraco:Macro>
+
+</asp:Content>

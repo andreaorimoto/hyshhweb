@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <imageText>Hello, world!</imageText>
+    <cachedImage>
+      <fileName>fliu30hy.gif</fileName>
+      <dateCreated>Fri, 02 Sep 2011 16:27:10 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2015 17:35:35 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>0</width>
+      <height>0</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+      <antiAlias>True</antiAlias>
+      <fontName>Arial</fontName>
+      <fontSize>32</fontSize>
+      <lineHeight>-1</lineHeight>
+      <fontStyle>Regular</fontStyle>
+      <fontColor>#000000</fontColor>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qr5dpeyo.gif</fileName>
+      <dateCreated>Thu, 13 Oct 2011 18:58:42 GMT</dateCreated>
+      <dateLastAccessed>Thu, 19 Mar 2015 23:41:36 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>600</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <antiAlias>True</antiAlias>
+      <fontName>Arial</fontName>
+      <fontSize>32</fontSize>
+      <lineHeight>-1</lineHeight>
+      <fontStyle>Regular</fontStyle>
+      <fontColor>#000000</fontColor>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

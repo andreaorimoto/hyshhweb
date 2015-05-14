@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+Born: 03.February.1981 in Budapest.
+ Weight: -67 kg
+ Height: 175 cm
+
+&nbsp;
+
+Studies:
+
+High school degree- 1999
+
+University of Hertfordshire
+Bachelors degree- 2004
+
+&nbsp;
+
+Karate
+History:
+
+Karateka since 1989.
+
+Member of the Hungarian National
+Karate team since 1997.
+
+Karate sportsman of the year in
+Hungary; 2001, 2002, 2003, 2004, 2005,2006, 2008,2009, 2010
+
+Sportsman of the Year at National
+Sports Federation
+
+Gold Medal from Ministry of Sports
+2009
+
+&nbsp;
+
+Best
+Results:
+
+World Games Champion 2009
+(Taiwan)
+
+Bronz Medalis WKF World
+Championships 2010 (Serbia)
+
+WKF Vice Champion of the
+World 2008 (Japan)
+
+WKF Vice champion of the
+World 2004 (Mexico)
+
+WKF Junior World champion
+2001 (Greece)
+
+Hayashi Shito-ryu World
+Champion 2003 (Sweden)
+
+&nbsp;
+
+Other important
+competition results:
+
+
+
+
+Junior Hungarian Champion - 1997,
+1998, 1999, 2000, 2001 (5*)
+
+Hungarian Champion - 1999, 2000,
+2001, 2002, 2003,2004, 2005,2006,2007,2008,2009,2010 (12*)
+
+Shito-Ryu /-65kg/ World
+Champion - 2003. - Sweden
+
+World cup for for childrens and
+cadettes: 1. place - Miskolc,Hungary- 1998, 1999
+
+&nbsp;
+
+French Open: 1. place -
+2003
+
+Serbian Open: 1. place -
+2007
+
+Italian Open: 2. place-
+2008
+
+Dutch Open: 3. place-
+2008
+
+English Open: 3. place -
+2002
+
+Us Open: 3. place - 2004,
+2005,2006
+
+&nbsp;
+
+Croatian Open: 1. place - 2000,
+2002, 2003, 2004
+
+Budapest Open: 1. place - 2000,
+2001,2005, 2008
+
+Slovakian Open: 1. place - 2001,
+2002, 2003, 2004, 2008, 2011
+
+Bosnian Open: 1. place - 2003,
+2004
+
+&nbsp;
+
+EKF European Karate
+Championships 3.place- 2010
+
+EKF European Karate
+Championships 3.place- 2006
+
+&nbsp;
+
+EKF Kadet and Junior Karate European
+Championships 3.place - Athens- 1998
+
+EKF Kadet and Junior Karate European
+Championships 2.place - Cypres- 2001
+
+EKF European Karate Championships:
+5.place - Bremen- 2003
+
+EKF European Karate Championships:
+5.place - Teneriffe- 2005
+
+EKF European Karate Championships:
+5.place - Tallin.- 2008
+
+&nbsp;
+
+WKF Junior Karate World
+Championships: 1.place - Athens- 2001
+
+WKF University World Championships:
+4.place - Mexico- 2002
+
+WKF World Karate Championships:
+4.place - Madrid- 2002
+
+WKF World Karate
+Championships:&nbsp; 2.place- Mexico- 2004
+
+WKF World Karate
+Championships: 2.place- Tokyo, Japan- 2008
+
+WKF World Karate
+Championships: 3.place- Serbia- 2010
+
+World Games: 1.place-
+Chinese Taipei
+
+&nbsp;
+
+*WKF- World Karate Federation
+
+*EKF- European Karate Federation
+
+&nbsp;&nbsp;
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Adam S. Kovacs]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1483]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Adam Kovaks]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-12-12T10:16:22]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1483]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1483]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1483]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

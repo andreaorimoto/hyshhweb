@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>eventDate</string>
+    </key>
+    <value><![CDATA[2014-05-18T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>eventLocation</string>
+    </key>
+    <value><![CDATA[Seattle, WA]]></value>
+  </item>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+
+ &nbsp;
+
+
+46th ANNUAL WASHINGTON
+&nbsp;STATE &nbsp;INTERNATIONAL
+
+KARATE CHAMPIONSHIPS
+
+Sunday, May 18, 2014
+
+Presented by: Washington
+Karate Association
+
+
+&nbsp;
+
+Dear Sensei, Coach, and Athlete,&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; It is with great pleasure and privilege
+that we invite you to participate in the 46th Washington
+State International Karate Championships.&nbsp; This long-running
+competition has featured some of the best athletes in the world and
+some of the highest ranking officials in the international arena.
+We truly appreciate the past support from Senseis, officials,
+athletes, and volunteers, and hope you will join us again for this
+exciting event.
+
+The tournament will be held on Sunday, May 18th at
+Edmonds Community College Seaview Gymnasium, 20000 68th
+West, Lynwood, WA 98036.&nbsp; Registration will open at 8:00am,
+there will be an officials meeting at 9:00am, and the competition
+will begin at 10:00am.&nbsp; This competition will provide an
+excellent competitive opportunity for karate-ka of all ages and
+levels to test their skills and gain valuable experience.&nbsp;
+Divisions will be divided according to age and level with medals
+awarded for the top three places.&nbsp; We will also have team kata
+and kumite events, along with a Family Team Kata division.
+
+Competitors are required to wear a traditional white gi, and all
+officials must adhere to the official dress code, which is: grey
+pants, white shirt, blue tie, blue blazer, and black non-marking
+soft-soled shoes.&nbsp;&nbsp;&nbsp;&nbsp; For kumite competition,
+modified WKF/USA-NKF rules will apply.&nbsp; Approved red and blue
+fistpads, mouthguard, and groin protector (males) are
+required.&nbsp; Optional equipment includes: approved chest
+protectors, shin/instep protectors, soft cloth arm guards, athletic
+safety glasses and headgear (for 13 &amp; under).
+
+Online registration will be available at http://events.wkabellevue.com.&nbsp;
+
+Please feel free to contact Junko Arai at (425) 641-8123 or sensei@wkabellevue.com or
+Matthew Day at (206)784-3171 or mattday@washingtonkarate.com
+for any questions.
+
+&nbsp;
+
+We look forward to seeing all of you there!
+
+&nbsp;
+
+Sincerely,
+
+
+
+
+
+Junko Arai
+
+Tournament Director
+
+
+Matthew Day
+
+Director of Operations
+
+
+
+
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>showInHPNews</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[46th Annual Washington State International Championships]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1751]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[46th Annual Washington State International Championships]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2014-11-04T22:44:01]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1750,1751]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1750]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1091,1750,1751]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[EventsItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1751]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

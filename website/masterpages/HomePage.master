@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Main.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+    <div id="leftnavHP">
+        <span class="hp_news_title">WHAT'S NEW</span><span class="hp_news_title_2">>></span>&nbsp;
+        <!--
+        <span>
+            <a href="">
+                <img style="border: 0px; vertical-align: top;" src="/images/rss-icon16x16.gif" alt="International Hayashi-ha Shito-Ryu Karate-Do Federation News Feed (RSS 2.0)" width="16" height="16" />
+            </a>
+        </span>
+        -->
+    <umbraco:Macro runat="server" Alias="NewsFeed" />
+    </div>
+    <umbraco:Macro runat="server" Alias="Sponsor" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <!-- Main Flash -->
+    <umbraco:Macro runat="server" Alias="MainFlash" />
+    <!-- Breaking News -->
+    <umbraco:Macro runat="server" Alias="BreakingNews" />
+    <!-- Features -->
+    <umbraco:Macro runat="server" Alias="Features" />
+</asp:Content>

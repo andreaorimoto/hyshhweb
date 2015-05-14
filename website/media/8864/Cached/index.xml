@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>kata seminar opening.jpg</originalFileName>
+    <size>554575</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:26 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1365</height>
+    <cachedImage>
+      <fileName>qlap4egt.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 05:12:57 GMT</dateCreated>
+      <dateLastAccessed>Wed, 04 Mar 2015 16:10:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>1isas1i2.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 05:13:04 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:50:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qchdjxno.jpeg</fileName>
+      <dateCreated>Wed, 21 Mar 2012 10:21:18 GMT</dateCreated>
+      <dateLastAccessed>Fri, 09 Jan 2015 11:41:41 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1365</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

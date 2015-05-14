@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>yearbookkurdi.png</originalFileName>
+    <size>703511</size>
+    <dateLastModified>Mon, 30 May 2011 08:10:28 GMT</dateLastModified>
+    <width>842</width>
+    <height>599</height>
+    <cachedImage>
+      <fileName>1g3siofx.png</fileName>
+      <dateCreated>Mon, 30 May 2011 08:12:44 GMT</dateCreated>
+      <dateLastAccessed>Thu, 21 Jul 2011 00:33:03 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>100</width>
+      <height>71</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

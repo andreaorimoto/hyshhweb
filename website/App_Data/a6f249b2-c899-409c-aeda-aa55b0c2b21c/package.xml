@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>CultivContactForm.ascx</guid>
+      <orgPath>/usercontrols</orgPath>
+      <orgName>CultivContactForm.ascx</orgName>
+    </file>
+    <file>
+      <guid>CultivContactForm.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>CultivContactForm.dll</orgName>
+    </file>
+    <file>
+      <guid>Recaptcha.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Recaptcha.dll</orgName>
+    </file>
+    <file>
+      <guid>CultivContactForm.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>CultivContactForm.css</orgName>
+    </file>
+    <file>
+      <guid>b3bad34b-ed4e-4696-8ea2-fbd0b7a1a69a_CultivContactForm.ascx</guid>
+      <orgPath>/usercontrols</orgPath>
+      <orgName>CultivContactForm.ascx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>CultivContactForm</name>
+      <version>0.9.2</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://www.cultiv.nl</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Sebastiaan Janssen</name>
+      <website>http://www.cultiv.nl</website>
+    </author>
+    <readme><![CDATA[The Cultiv Contact Form package allows you to quickly get a basic contact form in your website. 
+
+The form will ask your website visitor for a name, e-mail address (required) and a message (required). 
+
+This package will add a documentType, a macro, a template, a CSS file and a content item (all called "CultivContactForm", feel free to rename). 
+These are just created as an example, you can delete the template and content item and the "CultivContactForm" macro to one of your templates to make the contact form show up. 
+Then, create a content item with the documentType "CultivContactForm" and configure your form. All of the configurations can be done in the content item. 
+
+Make sure that the mail server settings in your web.config are correct when you start using this package, you will need at least (in system.net - mailSettings - smtp - network): 
+- host="your.smtp.server" 
+- port="xx" 
+
+If your smtp server requires authentication, add these: 
+- userName="yourUsername" 
+- password="yourPassword" 
+- defaultCredentials="false"]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <node id="1093" version="89a3b35b-245d-49ed-8cdd-e3270b4eb155" parentID="-1" level="1" writerID="0" creatorID="0" nodeType="1092" template="1091" sortOrder="7" createDate="2009-10-03T19:52:49" updateDate="2010-09-12T06:56:31" nodeName="CultivContactForm" urlName="cultivcontactform" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CultivContactForm" path="-1,1093">
+        <data alias="contactMailTo">something@something.ext</data>
+        <data alias="contactRedirectId" />
+        <data alias="contactNameLabel">Your name:</data>
+        <data alias="contactEmailLabel">Your e-mail:</data>
+        <data alias="contactMessageLabel">Your comment:</data>
+        <data alias="contactSubmitButtonLabel">Send comment</data>
+        <data alias="contactErrorEmailBlank">Please fill in your e-mail address</data>
+        <data alias="contactErrorEmailInvalid">Your e-mail address is incorrect</data>
+        <data alias="contactErrorMessageBlank">Please enter a message</data>
+        <data alias="bodyText"><![CDATA[
+<p>Fill out the contact form below to get in touch.</p>
+]]></data>
+        <data alias="contactMailSubject">New message from the contact form.</data>
+        <data alias="contactMailHtml">0</data>
+        <data alias="contactMailSmtpEnableSsl">0</data>
+        <data alias="recaptchaEnabled">0</data>
+        <data alias="recaptchaLabel">Please enter both words below:</data>
+        <data alias="recaptchaErrorLabel">The words were entererd incorrectly</data>
+        <data alias="recaptchaPublicKey" />
+        <data alias="recaptchaPrivateKey" />
+      </node>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>CultivContactForm</Name>
+        <Alias>CultivContactForm</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>CultivContactForm</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CultivContactForm</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Mail To</Name>
+          <Alias>contactMailTo</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact mail</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>[a-zA-Z0-9!#$%&amp;'*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&amp;'*+/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?</Validation>
+          <Description><![CDATA[To which address should the contact form e-mails be sent.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thank You Page</Name>
+          <Alias>contactRedirectId</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>Contact form</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you want to redirect to a certain page after the form was succesfully sent, then pick it here.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Name field label</Name>
+          <Alias>contactNameLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The label in front of the "Name" field.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>E-mail field label</Name>
+          <Alias>contactEmailLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The label in front of the "E-mail" field.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Message field label</Name>
+          <Alias>contactMessageLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The label in front of the "Message" field.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Submit button label</Name>
+          <Alias>contactSubmitButtonLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The text on the submit button.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email blank</Name>
+          <Alias>contactErrorEmailBlank</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form errors</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The text of the error to be shown when the e-mail address has been left blank.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email invalid</Name>
+          <Alias>contactErrorEmailInvalid</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form errors</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The text of the error to be shown when the specified e-mail address is invalid.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Message blank</Name>
+          <Alias>contactErrorMessageBlank</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact form errors</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The text of the error to be shown when the message field has been left blank.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Mail subject</Name>
+          <Alias>contactMailSubject</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Contact mail</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The subject of the contact mail.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Mail in HTML?</Name>
+          <Alias>contactMailHtml</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Contact mail</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Send the contact mail in HTML format?]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Mailserver SSL on</Name>
+          <Alias>contactMailSmtpEnableSsl</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Contact mail</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Does the SMTP server need a connection over SSL?]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Add ReCaptcha field?</Name>
+          <Alias>recaptchaEnabled</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>reCAPTCHA</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This will prevent spammers from abusing your contact form.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>reCAPTCHA field label</Name>
+          <Alias>recaptchaLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>reCAPTCHA</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The label in front of the reCAPTCHA field.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>reCAPTCHA error</Name>
+          <Alias>recaptchaErrorLabel</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>reCAPTCHA</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The text of the error to be shown when the reCAPTCHA validation fails.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>reCAPTCHA public key</Name>
+          <Alias>recaptchaPublicKey</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>reCAPTCHA</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Get your public key from your reCAPTCHA profile: https://admin.recaptcha.net/recaptcha/sites/]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>reCAPTCHA private key</Name>
+          <Alias>recaptchaPrivateKey</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>reCAPTCHA</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Get your private key from your reCAPTCHA profile: https://admin.recaptcha.net/recaptcha/sites/]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>24</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Contact form</Caption>
+        </Tab>
+        <Tab>
+          <Id>26</Id>
+          <Caption>Contact form errors</Caption>
+        </Tab>
+        <Tab>
+          <Id>27</Id>
+          <Caption>Contact mail</Caption>
+        </Tab>
+        <Tab>
+          <Id>28</Id>
+          <Caption>reCAPTCHA</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>CultivContactForm</Name>
+      <Alias>CultivContactForm</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+
+    <title>Contact</title>
+  <link href="/css/CultivContactForm.css" media="screen" rel="Stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1><umbraco:Item field="pageName" runat="server"></umbraco:Item></h1>
+  <p><umbraco:Item field="bodyText" runat="server"></umbraco:Item></p>
+  <umbraco:Macro Alias="CultivContactForm" runat="server"></umbraco:Macro>
+</body>
+</asp:content>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets>
+    <Stylesheet>
+      <Name>CultivContactForm</Name>
+      <FileName>CultivContactForm</FileName>
+      <Content><![CDATA[#cultivContact fieldset
+{
+    width: 320px;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+.formLabel
+{
+    float: left;
+    width: 100px;
+}
+.inputRow
+{
+    clear: left;
+}
+.inputRowWide
+{
+    clear: left;
+    padding-left: 94px;
+}
+.inputRowwide span
+{
+    padding-left: 3px;
+}
+.errorMessage
+{
+    color: Red;
+    margin-left: 100px;
+    clear: left;
+}
+.errorMessageWide
+{
+    color: Red;
+}
+.inputString
+{
+    float: left;
+    width: 150px;
+}
+.inputArea
+{
+    width: 310px;
+    height: 200px;
+}
+.submit
+{
+    float: right;
+}
+]]></Content>
+    </Stylesheet>
+  </Stylesheets>
+  <Macros>
+    <macro>
+      <name>CultivContactForm</name>
+      <alias>CultivContactForm</alias>
+      <scriptType>/usercontrols/CultivContactForm.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>

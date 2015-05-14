@@ -1,0 +1,67 @@
+
+div#siteNavigation {
+  font-size: .6em;
+  background: #ddd url(/layout/images/topNav_btn.jpg) no-repeat left bottom;
+  position: relative;
+  top: 42px;
+  left: 300px;
+  width: 618px;  
+  height: 26px;
+  /*text-indent: -9999px;*/
+  padding: 0px;
+  margin: 0px;
+}
+
+
+/* global navigation ------------ */
+
+div#siteNavigation ul#globalNav {
+  /*background: url(../images/gnav_bg.gif) repeat-x;*/
+  height: 26px;
+  padding: 0px;
+  margin: 0px;
+}
+
+div#siteNavigation ul#globalNav ul 
+{
+  list-style-type: none;
+}
+
+div#siteNavigation ul#globalNav li {
+  float: left;
+  height: 26px;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  list-style-type: none;
+}
+
+div#siteNavigation ul#globalNav li a {
+  padding-top: 6px;
+  outline: none;
+  display: block;
+  height: 20px;
+  background: url(../images/gnav.gif) no-repeat;
+}
+div#siteNavigation ul#globalNav li.home a { width: 103px;}
+div#siteNavigation ul#globalNav li.aboutus a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.members a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.events a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.photos a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.development a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.references a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.download a { width: 103px; background-position: -208px 0;}
+div#siteNavigation ul#globalNav li.videos a { width: 103px; background-position: -104px 0;}
+div#siteNavigation ul#globalNav li.contactus a { width: 103px; background-position: -208px 0;}
+
+div#siteNavigation ul#globalNav li a:hover { background-image: url(/layout/images/topNav_btn_hov.jpg);}
+div#siteNavigation ul#globalNav li.current a,
+div#siteNavigation ul#globalNav li.current a:hover,
+div#siteNavigation ul#globalNav li a:active { background-image: url(/layout/images/topNav_btn_down.jpg);}
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

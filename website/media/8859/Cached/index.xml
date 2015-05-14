@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Hanshi Thiry correcting neko ashi dachi.jpg</originalFileName>
+    <size>413069</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:24 GMT</dateLastModified>
+    <width>1365</width>
+    <height>2048</height>
+    <cachedImage>
+      <fileName>pi5noe4x.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 05:12:58 GMT</dateCreated>
+      <dateLastAccessed>Wed, 04 Mar 2015 16:10:10 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>67</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>341mtzmz.jpeg</fileName>
+      <dateCreated>Thu, 05 Jan 2012 07:15:05 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:51:05 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>kokdou5u.jpeg</fileName>
+      <dateCreated>Thu, 05 Apr 2012 14:15:20 GMT</dateCreated>
+      <dateLastAccessed>Fri, 09 Jan 2015 11:41:41 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1365</width>
+      <height>2048</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

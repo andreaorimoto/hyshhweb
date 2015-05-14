@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>mainText</string>
+    </key>
+    <value><![CDATA[
+&nbsp;
+
+
+
+Matthew Day has been an instructor
+with the Washington Karate Association for 25 years. Active within
+the karate community as an instructor, athlete, and official, his
+list of accomplishments have covered the scope of athlete, referee
+and instructor at the highest levels of expertise. &nbsp;An
+accomplished musician, Sensei Day's enthusiastic approach to
+Karate-do is much appreciated by his students who share his zeal
+for life.
+
+Accomplishments
+include:
+
+&nbsp;
+
+
+
+5th degree black belt, Hayashi-ha
+Shito-ryu
+
+
+Three time USA National kumite champion, -70
+kg
+
+
+Former United States National Karate Team
+Member
+
+
+International gold medalist, synchronized
+kata
+
+
+Pan American Karate Federation
+Official
+
+
+USA-National Karate-Do Federation Athlete
+Representative
+
+
+Chairman of the International Hayashi-Ha Shito-Ryu
+Organizing Committee
+
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>title</string>
+    </key>
+    <value><![CDATA[Matthew Day]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1105]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Matthew Day]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-05-30T01:25:59]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[Andrea Orimoto]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1105]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1089]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1085,1086,1089,1105]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[AboutusItem]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1105]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

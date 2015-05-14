@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>09-Kumite Seminar.jpg</originalFileName>
+    <size>205591</size>
+    <dateLastModified>Mon, 17 Oct 2011 01:54:46 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>fvc0qxd5.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:30:44 GMT</dateCreated>
+      <dateLastAccessed>Fri, 20 Mar 2015 19:30:00 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>rwv1ivqj.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:40:41 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:52:55 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>pjei13s2.jpeg</fileName>
+      <dateCreated>Wed, 19 Oct 2011 06:52:00 GMT</dateCreated>
+      <dateLastAccessed>Sun, 15 Mar 2015 18:50:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

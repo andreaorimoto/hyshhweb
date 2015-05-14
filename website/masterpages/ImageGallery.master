@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Main.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+    <umbraco:Macro runat="server" Alias="LeftNavigation" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <div class="pageContent">
+        <umbraco:Macro ID="Macro2" runat="server" Alias="Breadcrumbs" />
+        <div class="pageTitle">
+            <umbraco:Item ID="Item1" Field="title" runat="server"></umbraco:Item>
+        </div>
+        <umbraco:Item Field="mainText" runat="server"></umbraco:Item>
+        <p />
+        <form id="Form2" runat="server">
+        <umbraco:Macro ID="Macro3" folderId="[#gallery]" ThumbWidth="100" ThumbHeight="100"
+            LightBoxWidth="600" LightBoxHeight="600" Alias="Designit.Gallery" runat="server">
+        </umbraco:Macro>
+        </form>
+        <umbraco:Macro Alias="ShareThis" runat="server"></umbraco:Macro>
+    </div>
+</asp:Content>

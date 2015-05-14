@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/ItemMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+    <umbraco:Macro runat="server" Alias="LeftNavigation" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <div class="pageContent">
+        <umbraco:Macro runat="server" Alias="Breadcrumbs" />
+        <div class="pageTitle">
+            <h1>
+                <umbraco:Item Field="title" runat="server"></umbraco:Item>
+            </h1>
+        </div>
+        <umbraco:Item Field="mainText" runat="server"></umbraco:Item>
+        <p>
+        </p>
+        <iframe width="560" height="360" src="http://www.youtube.com/embed/<umbraco:Item ID='Item1' Field='youtubeId' runat='server'/>?rel=0&amp;hd=1"
+            frameborder="0" allowfullscreen="1"></iframe>
+        <umbraco:Macro Alias="ShareThis" runat="server"></umbraco:Macro>
+        <div class="otherVideos">
+            <h2>
+                All videos in this category
+            </h2>
+            <umbraco:Macro Alias="VideosInCategory" runat="server" />
+        </div>
+    </div>
+</asp:Content>

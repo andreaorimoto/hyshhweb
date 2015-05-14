@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+    <!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+        <title>
+            <umbraco:Macro runat="server" Alias="Title" />
+        </title>
+        <meta name="robots" content="index,follow,noydir,noodp" />
+        <meta name="keywords" content="<umbraco:Item runat='server' Field='sEOKeywords' recursive='true' />" />
+        <meta name="description" content="<umbraco:Macro runat='server' Alias='Description' />" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+        <link rel="Stylesheet" type="text/css" href="/css/base.css?12" />
+        <link rel="Stylesheet" type="text/css" href="/css/navigation.css?3" />
+        <link rel="Stylesheet" type="text/css" href="/css/CultivContactForm.css" />
+        <asp:ContentPlaceHolder ID="MainHeadPlaceholder" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <div id="main">
+            <div id="body">
+            <a name="top"></a>
+                <div id="body_header">
+                    <a href="/" title="Back to Home Page" class="logoUrl"></a>
+                    <div id="header">
+                        <umbraco:Macro runat="server" Alias="TopNavigation" />
+                        <!-- Move navigation to a macro  -->
+                        <div id="headerFB">
+                          <table border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><iframe src="http://www.facebook.com/plugins/like.php?app_id=255856051111030&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInternational-Hayashi-Ha-Shito-Ryu-Karate-Do-Federation%2F142642759152517&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe></td>
+                              <td><g:plusone size="medium"></g:plusone></td>
+                            </tr>
+                          </table>
+                          <script type="text/javascript">
+                            (function() {
+                              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                              po.src = 'https://apis.google.com/js/plusone.js';
+                              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                            })();
+                          </script>
+                        </div>
+                        <div id="headerSearch">
+                            <form action="/search" method="post">
+                                <input type="text" size="15" name="search" value="<%= Request["search"] %>" style="background-color:#C0C0C0" />
+                                <input type="submit" value="Search" />
+                            </form>
+                        </div>
+                        <umbraco:Macro runat="server" Alias="MainNavigation" />
+                    </div>
+                    <div id="contentarea" class="clearfix">
+                        <div id="column1">
+                            <asp:contentplaceholder id="ContentPlaceHolderLeftNav" runat="server" />
+                        </div>
+                        <div id="column2">
+                            <umbraco:Macro runat="server" Alias="SectionBanner" />
+                            <asp:contentplaceholder id="ContentPlaceHolderMain" runat="server" />
+                        </div>
+                        <!--end contentarea-->
+                        <div class="clearfloats">
+                        </div>
+                        <div id="footer">
+                            <div id="disclaimer">
+                                <umbraco:Item runat="server" Field="siteDisclaimer" recursive="true" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Google analytics tag start -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-9676784-1");
+                pageTracker._trackPageview();
+            } catch (err) { }
+        </script>
+        <!-- Google analytics tag start -->
+    </body>
+    </html>
+</asp:Content>

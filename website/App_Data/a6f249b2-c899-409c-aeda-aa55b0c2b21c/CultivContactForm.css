@@ -1,0 +1,49 @@
+﻿#cultivContact fieldset
+{
+    width: 320px;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+.formLabel
+{
+    float: left;
+    width: 100px;
+}
+.inputRow
+{
+    clear: left;
+}
+.inputRowWide
+{
+    clear: left;
+    padding-left: 94px;
+}
+.inputRowwide span
+{
+    padding-left: 3px;
+}
+.errorMessage
+{
+    color: Red;
+    margin-left: 100px;
+    clear: left;
+}
+.errorMessageWide
+{
+    color: Red;
+}
+.inputString
+{
+    float: left;
+    width: 150px;
+}
+.inputArea
+{
+    width: 310px;
+    height: 200px;
+}
+.submit
+{
+    float: right;
+}

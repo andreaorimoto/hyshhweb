@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>group picture.jpg</originalFileName>
+    <size>433436</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:18 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1143</height>
+    <cachedImage>
+      <fileName>o2zzdc1c.jpeg</fileName>
+      <dateCreated>Sat, 19 May 2012 18:19:05 GMT</dateCreated>
+      <dateLastAccessed>Fri, 20 Mar 2015 19:29:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>56</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>bcvmzuhw.jpeg</fileName>
+      <dateCreated>Sat, 19 May 2012 21:15:18 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:50:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>335</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>y0kiqt2p.jpeg</fileName>
+      <dateCreated>Tue, 22 May 2012 06:55:56 GMT</dateCreated>
+      <dateLastAccessed>Sun, 15 Mar 2015 18:50:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1143</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

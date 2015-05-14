@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Main.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderLeftNav" runat="server">
+    <umbraco:Macro runat="server" Alias="LeftNavigation" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <div class="pageContent">
+        <umbraco:Macro runat="server" Alias="Breadcrumbs" />
+        <div class="pageTitle">
+            <umbraco:Item Field="title" runat="server"></umbraco:Item>
+        </div>
+        <asp:contentplaceholder id="mainContent" runat="server" />
+    </div>
+</asp:Content>

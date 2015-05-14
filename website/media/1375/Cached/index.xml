@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>23-Individual Katas.jpg</originalFileName>
+    <size>214067</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:07:17 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>ur25rmo0.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 02:27:50 GMT</dateCreated>
+      <dateLastAccessed>Tue, 10 Mar 2015 07:02:04 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>3x2gc01l.jpeg</fileName>
+      <dateCreated>Mon, 17 Oct 2011 03:55:45 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:52:40 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>zz5c4zux.jpeg</fileName>
+      <dateCreated>Wed, 28 Dec 2011 23:10:58 GMT</dateCreated>
+      <dateLastAccessed>Tue, 26 Nov 2013 19:55:30 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

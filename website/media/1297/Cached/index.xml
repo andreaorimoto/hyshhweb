@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>KARATE PHOTOS_0016.jpg</originalFileName>
+    <size>494617</size>
+    <dateLastModified>Sat, 10 Sep 2011 06:15:05 GMT</dateLastModified>
+    <width>1360</width>
+    <height>1914</height>
+    <cachedImage>
+      <fileName>33chtqh3.jpeg</fileName>
+      <dateCreated>Sat, 10 Sep 2011 06:15:44 GMT</dateCreated>
+      <dateLastAccessed>Tue, 17 Mar 2015 22:39:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>71</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ywz4gbb5.jpeg</fileName>
+      <dateCreated>Sat, 10 Sep 2011 06:21:09 GMT</dateCreated>
+      <dateLastAccessed>Thu, 12 Mar 2015 17:53:57 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>426</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>w50ngskc.jpeg</fileName>
+      <dateCreated>Mon, 03 Oct 2011 01:12:33 GMT</dateCreated>
+      <dateLastAccessed>Fri, 09 Jan 2015 11:44:26 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1360</width>
+      <height>1914</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

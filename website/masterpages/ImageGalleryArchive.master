@@ -1,0 +1,10 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/ArchiveMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="MainContent" runat="server">
+        <umbraco:Item Field="mainText" runat="server"></umbraco:Item>
+        <p />
+        <umbraco:Macro Alias="ImageGallery" runat="server"></umbraco:Macro>
+        <div style="clear:both;">
+        <umbraco:Macro Alias="ShareThis" runat="server"></umbraco:Macro>
+        </div>
+</asp:Content> 
